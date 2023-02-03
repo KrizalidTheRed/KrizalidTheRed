@@ -1,5 +1,5 @@
 <div align="left">
-  <h1 align="left" style="font-weight: bold; font-size:32;">Olá, sou o Erick, seja bem-vindo!</h1>
+  <h1 align="left" style="font-weight: bold; font-size:32;">Hi, I'm Erick, Welcome to my Github profile!</h1>
   <a href="https://github.com/KrizalidTheRed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrizalidTheRed&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <br><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KrizalidTheRed&theme=github-dark-blue"></br>
@@ -8,7 +8,7 @@
 <br>
 <br>  
 <div style="display:inline_block">
-  <h1> Tecnologias front-end</h1
+  <h1>Front-end technologies</h1
 </div>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)
@@ -17,7 +17,7 @@
 <br>
 <br>
  <div style="display:inline_block">
-  <h1> Tecnologias back-end</h1
+  <h1>Back-end technologies</h1
 </div>
     
   [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,py)](https://skillicons.dev)
@@ -25,7 +25,7 @@
 <br>
 <br> 
 <div style="display:inline_block">
-  <h1> Banco de dados:</h1
+  <h1>Database</h1
 </div>
     
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
@@ -33,7 +33,7 @@
 <br>
 <br> 
 <div style="display:inline_block">
-  <h1> Sistemas Operacionais</h1
+  <h1>Operational Systems</h1
 </div>
     
   [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
@@ -41,7 +41,7 @@
 <br>
 <br>    
 <div style="display: inline_block">
-  <h1>Editores de código que utilizo: </h1>
+  <h1>Code editors </h1>
   <img align="center" alt="neovim"  src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img align="center" alt="vim"  src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <img align="center" alt="pycharm"  src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
