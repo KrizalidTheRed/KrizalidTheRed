@@ -1,7 +1,56 @@
-### Hi there 👋
+<div align="left">
+  <h1 align="left" style="font-weight: bold; font-size:32;">Olá, sou o Erick, seja bem-vindo!</h1>
+  <a href="https://github.com/KrizalidTheRed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrizalidTheRed&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <br><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KrizalidTheRed&theme=github-dark-blue"></br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrizalidTheRed&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<br>
+<br>  
+<div style="display:inline_block">
+  <h1> Tecnologias front-end</h1
+</div>
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)
 
+    
+<br>
+<br>
+ <div style="display:inline_block">
+  <h1> Tecnologias back-end</h1
+</div>
+    
+  [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,py)](https://skillicons.dev)
+    
+<br>
+<br> 
+<div style="display:inline_block">
+  <h1> Banco de dados:</h1
+</div>
+    
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+    
+<br>
+<br> 
+<div style="display:inline_block">
+  <h1> Sistemas Operacionais</h1
+</div>
+    
+  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+<br>
+<br>    
+<div style="display: inline_block">
+  <h1>Editores de código que utilizo: </h1>
+  <img align="center" alt="neovim"  src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img align="center" alt="vim"  src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+  <img align="center" alt="pycharm"  src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img align="center" alt="vscode"  src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img align="center" alt="emacs"  src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/>
+</div><br/>    
+  
 <!--
-**KrizalidTheRed/KrizalidTheRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ErickNunes97/ErickNunes97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
